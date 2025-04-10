@@ -1,5 +1,5 @@
 # MineCraftMods
-host must create code by pressing [3 dots] select [Share Profile] on [User Profile Code] press "Generate Code", to copy paste by guest, by pressing "Import" paste code on User Profile Code
+host must create code by pressing [3 dots] then select [Share Profile], afterwards on "User Profile Code" press [Generate Code], to copy paste by guest/participant, by pressing [Import] to paste code on "User Profile Code"
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<MANDATORY SECTION>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Mutliplayer-----------------
