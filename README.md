@@ -54,7 +54,8 @@ https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
 • FerriteCore ((Neo)Forge) (Similar to Sodium) : Optional
 
------------------------------------------------------------------Recommended--Keybinds-----------------------------------------------------------------
+----------------------------------------------------------------Recommended--Keybinds-----------------------------------------------------------------
+
 • Jump: Space
 
 • Sneak: Left Control
@@ -68,6 +69,7 @@ https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 • Lock On: V
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<OPTIONAL SECTION>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 Redesign Structures
 • Luki's GrandCapitals (Improve village)
 
