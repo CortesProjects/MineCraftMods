@@ -27,11 +27,15 @@ Performance
 
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
 https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
+
 • Sodium/Embiddium Options API
+
 • Sodium/Embeddium Extras
 https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
+
 • Sodium/Embeddium Options Mod Compat
 https://www.curseforge.com/minecraft/mc-mods/sodium-embeddium-options-mod-compat
+
 • Cull Leaves (See through leaves)
 https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 
