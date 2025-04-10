@@ -43,8 +43,10 @@ https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 https://www.curseforge.com/minecraft/mc-mods/midnightlib
 
 • Entity Culling Fabric/Forge (Render entity that is not obstructed vision)
+https://www.curseforge.com/minecraft/mc-mods/entityculling
 
-• Dynamic FPS (Manage Memory Usage)
+• Dynamic FPS (Manage Memory Usage) (testing)
+https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
 
 • FerriteCore ((Neo)Forge) (Similar to Sodium)
 
