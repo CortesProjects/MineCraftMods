@@ -23,7 +23,7 @@ https://www.curseforge.com/minecraft/mc-mods/lootr
 
 • Armor of the Ages (armours) : Optional
 
--------------------------------------------------------------------------------Performance-------------------------------------------------------------------------------
+-------------------------------------------------------------------------Performance-------------------------------------------------------------------------
 
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
 https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
