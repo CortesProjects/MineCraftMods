@@ -52,7 +52,6 @@ https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 • FerriteCore ((Neo)Forge) (Similar to Sodium) : **Optional**
 
 -------------------------------------------------Recommended--Keybinds---------------------------------------------------
-
 • Jump: Space
 
 • Sneak: Left Control
