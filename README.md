@@ -61,7 +61,7 @@ https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
 • Dodge Skill: Q
 
-• Toggle Third Person (Back): V
+• Toggle First Person: Left-Alt
 
 • Lock On: V
 
