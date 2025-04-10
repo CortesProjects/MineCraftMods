@@ -16,9 +16,7 @@ Armor of the Ages(armours) : Optional
 
 Performance--------------------------
 Sodium/Embeddium Dynamic Lights       (IDK about these "Sodiums" but it does increase FPS)
-
 Sodium/Embiddium Options API
-
 Sodium/Embeddium Extras
 Sodium/Embeddium Options Mod Compat
 Cull Leaves                           (See through leaves)
