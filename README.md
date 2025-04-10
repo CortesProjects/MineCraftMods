@@ -50,7 +50,7 @@ https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
 • Distant Horizon (I don't recommend that load less chunks, because the moment we go further it will load chunks, while Distant horizon loads far chunks, making fps better)
 https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
-• FerriteCore ((Neo)Forge) (Similar to Sodium) : Optional
+• FerriteCore ((Neo)Forge) (Similar to Sodium) : **Optional**
 
 ---------------------------------------------------------------Recommended--Keybinds------------------------------------------------------------------
 
