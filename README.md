@@ -15,9 +15,9 @@ https://www.curseforge.com/minecraft/mc-mods/passable-foliage
 • LootR (get it to loot, others get to loot, without penalty)
 https://www.curseforge.com/minecraft/mc-mods/lootr
 
-• Epic Fight - Impactful (camera shakes) : Optional
+• Epic Fight - Impactful (camera shakes) : **Optional**
 
-• Shifu (craftable skill books) : Optional
+• Shifu (craftable skill books) : **Optional**
 
 • Cardiac (heal a little after killing) : **Optional**
 
