@@ -2,6 +2,7 @@
 host must create code by pressing [3 dots] then select [Share Profile], afterwards on "User Profile Code" press [Generate Code], to copy paste by guest/participant, by pressing [Import] to paste code on "User Profile Code"
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<MANDATORY SECTION>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Multiplayer
+
 • Reverie's Weapons Of Miracles Tweaks (less stamina consumption on WoM, and fast swings)
 https://www.curseforge.com/minecraft/mc-mods/reveries-weapons-of-miracles-tweaks
 
@@ -23,23 +24,19 @@ https://www.curseforge.com/minecraft/mc-mods/lootr
 • Armor of the Ages (armours) : Optional
 
 Performance
+
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
 https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
-
 • Sodium/Embiddium Options API
-
 • Sodium/Embeddium Extras
 https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
-
 • Sodium/Embeddium Options Mod Compat
 https://www.curseforge.com/minecraft/mc-mods/sodium-embeddium-options-mod-compat
-
 • Cull Leaves (See through leaves)
 https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 
 • MidnightLib (Required by Cull Leaves)
 https://www.curseforge.com/minecraft/mc-mods/midnightlib
-
 • Entity Culling Fabric/Forge (Render entity that is not obstructed vision)
 
 • Dynamic FPS (Manage Memory Usage)
