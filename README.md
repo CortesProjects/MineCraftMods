@@ -5,14 +5,20 @@ Host must create code by pressing [3 dots] then select [Share Profile], afterwar
 • Reverie's Weapons Of Miracles Tweaks (less stamina consumption on WoM, and fast swings)
 https://www.curseforge.com/minecraft/mc-mods/reveries-weapons-of-miracles-tweaks
 
-• Shoulder Surfing Reloaded (camera placement)
-https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
+• Epic Changer (change to mine, or battle mode automatically depending the tool)
+https://www.curseforge.com/minecraft/mc-mods/epic-changer
+
+• Epic Fight - Weapon Reworks (better animations on: Swords, Axes, Daggers, Longswords, Tachis)
+https://www.curseforge.com/minecraft/mc-mods/epic-fight-weapon-reworks
 
 • Passable Foliage
 https://www.curseforge.com/minecraft/mc-mods/passable-foliage
 
 • LootR (get it to loot, others get to loot, without penalty)
 https://www.curseforge.com/minecraft/mc-mods/lootr
+
+• Shoulder Surfing Reloaded (camera placement)
+https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Epic Fight - Impactful (camera shakes) : **Optional**
 
