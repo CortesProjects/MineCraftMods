@@ -2,7 +2,7 @@
 host must create code by pressing [3 dots] then select [Share Profile], afterwards on "User Profile Code" press [Generate Code], to copy paste by guest/participant, by pressing [Import] to paste code on "User Profile Code"
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<MANDATORY SECTION>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
--------------------------------------------------------------------------Multiplayer-------------------------------------------------------------------------
+------------------------------------------------------------------------Multiplayer-------------------------------------------------------------------------
 
 • Reverie's Weapons Of Miracles Tweaks (less stamina consumption on WoM, and fast swings)
 https://www.curseforge.com/minecraft/mc-mods/reveries-weapons-of-miracles-tweaks
