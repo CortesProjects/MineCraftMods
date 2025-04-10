@@ -67,7 +67,7 @@ https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
 # OPTIONAL SECTION
 
-------------------------------------------------------Redesign--Structures-----------------------------------------------------
+-----------------------------------------------------Redesign--Structures-----------------------------------------------------
 • Luki's GrandCapitals (Improve village)
 
 More Structures
@@ -90,7 +90,7 @@ More Structures
 NPC
 • Villagers Respawn
 
--------------------------------------------------------------Fun--Stuff-------------------------------------------------------------
+-----------------------------------------------------------Fun--Stuff-----------------------------------------------------------
 • Improved Mobs (buffs, armed mobs who can wield tools)
 
 • Eureka Airship (big ship with blocks and sail it, sky/sea)
@@ -99,7 +99,7 @@ NPC
 
 • Mob Sunscreen (make mobs doesn't burn on sun)
 
-----------------------------------------------------------------------------Seed----------------------------------------------------------------------------
+--------------------------------------------------------------Seed---------------------------------------------------------------
 • 3733786041790065155 (modded by More Structures and Redesign Structures Categories)
 
 • 2933252574533614119 (vanilla with 2 villages on island near spawn, and 3 villages on mainland north west)
