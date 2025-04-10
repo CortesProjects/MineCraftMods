@@ -4,9 +4,13 @@ host must create code by pressing [3 dots] then select [Share Profile], afterwar
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<MANDATORY SECTION>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Mutliplayer-----------------
 Reverie's Weapons Of Miracles Tweaks(less stamina consumption on WoM, and fast swings)
+https://www.curseforge.com/minecraft/mc-mods/reveries-weapons-of-miracles-tweaks
 Shoulder Surfing Reloaded(camera placement)
-LootR(get it to loot, others get to loot, without penalty)
+https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 Passable Foliage
+https://www.curseforge.com/minecraft/mc-mods/passable-foliage
+LootR(get it to loot, others get to loot, without penalty)
+https://www.curseforge.com/minecraft/mc-mods/lootr
 
 Epic Fight - Impactful(camera shakes) : Optional
 Shifu(craftable skill books) : Optional
@@ -16,15 +20,21 @@ Armor of the Ages(armours) : Optional
 
 Performance--------------------------
 Sodium/Embeddium Dynamic Lights       (IDK about these "Sodiums" but it does increase FPS)
+https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
 Sodium/Embiddium Options API
 Sodium/Embeddium Extras
+https://www.curseforge.com/minecraft/mc-mods/magnesium-extras
 Sodium/Embeddium Options Mod Compat
+https://www.curseforge.com/minecraft/mc-mods/sodium-embeddium-options-mod-compat
 Cull Leaves                           (See through leaves)
+https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 MidnightLib                           (Required by Cull Leaves)
+https://www.curseforge.com/minecraft/mc-mods/midnightlib
 Entity Culling Fabric/Forge           (Render entity that is not obstructed vision)
 Dynamic FPS                           (Manage Memory Usage)
 FerriteCore((Neo)Forge)               (Similar to Sodium)
 Distant Horizon                       (I dont recommend that load less chunks, because the moment we go further it will load chunks, while Distant horizon loads far chunks, making fps better)
+https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
 Recommended--Keybinds--------------------------------------
 Jump: Space
