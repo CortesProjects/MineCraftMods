@@ -70,7 +70,7 @@ https://www.curseforge.com/minecraft/mc-mods/distant-horizons
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<OPTIONAL SECTION>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Redesign Structures
+-----------------------------------------------------------------Redesign--Structures-----------------------------------------------------------------
 • Luki's GrandCapitals (Improve village)
 
 More Structures
@@ -93,7 +93,7 @@ More Structures
 NPC
 • Villagers Respawn
 
-Fun--Stuff
+---------------------------------------------------------------------Fun--Stuff----------------------------------------------------------------------
 • Improved Mobs (buffs, armed mobs who can wield tools)
 
 • Eureka Airship (big ship with blocks and sail it, sky/sea)
