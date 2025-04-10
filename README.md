@@ -19,9 +19,9 @@ https://www.curseforge.com/minecraft/mc-mods/lootr
 
 • Shifu (craftable skill books) : Optional
 
-• Cardiac (heal a little after killing) : Optional
+• Cardiac (heal a little after killing) : **Optional**
 
-• Armor of the Ages (armours) : Optional
+• Armor of the Ages (armours) : **Optional**
 
 ------------------------------------------------------------------------Performance------------------------------------------------------------------------
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
