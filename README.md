@@ -104,7 +104,7 @@ NPC
 
 • 2933252574533614119 (vanilla with 2 villages on island near spawn, and 3 villages on mainland north west)
 
--------------------------------------------------------Quality--of--Life---------------------------------------------------------
+-------------------------------------------------------Quality--of--Life--------------------------------------------------------
 • FTB Ultimine (mines the vein of resources)
 
 • Starter kit (start with items assigned)
