@@ -28,6 +28,12 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Armor of the Ages (armours) : **Optional**
 
+• Villager Recruits: Diplomacy Update! : **Optional**
+
+• Villager Worker : **Optional**
+
+• Mutated Items : **Optional**
+
 -------------------------------------------------Performance------------------------------------------------------------------
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
 https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
