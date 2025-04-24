@@ -40,6 +40,8 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Valarian Conquest: **Optional**
 
+• Better Mob Combat: **Optional** https://www.curseforge.com/minecraft/mc-mods/better-mob-combat
+
 -------------------------------------------------Performance------------------------------------------------------------------
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
 https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
