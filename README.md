@@ -38,6 +38,8 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Unlocked recipe book : **Optional**
 
+• Valarian Conquest: **Optional**
+
 -------------------------------------------------Performance------------------------------------------------------------------
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
 https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
