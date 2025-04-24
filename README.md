@@ -32,13 +32,11 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Villager Recruits: Diplomacy Update! : **Optional**
 
-• Villager Respawn : **Optional**
-
 • Easy Villagers : **Optional**
 
 • Lios Overhauled Villages : **Optional**
 
-• Mutated Items : **Optional**
+• Unlocked recipe book : **Optional**
 
 -------------------------------------------------Performance------------------------------------------------------------------
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
