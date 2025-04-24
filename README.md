@@ -32,6 +32,8 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Villager Recruits: Diplomacy Update! : **Optional**
 
+• Villager Respawn : **Optional**
+
 • Villager Worker : **Optional**
 
 • Mutated Items : **Optional**
