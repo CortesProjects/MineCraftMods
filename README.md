@@ -36,7 +36,7 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Easy Villagers : **Optional**
 
-• Villager Worker : **Optional**
+• Lios Overhauled Villages : **Optional**
 
 • Mutated Items : **Optional**
 
