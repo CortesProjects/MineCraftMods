@@ -40,7 +40,10 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Valarian Conquest: **Optional**
 
-• Better Mob Combat: **Optional** https://www.curseforge.com/minecraft/mc-mods/better-mob-combat
+
+
+• Valarian Conquest: (remove everything leave Villager Recruits for working Better  mob combat): **Optional**
+https://www.curseforge.com/minecraft/modpacks/recruitskingdom
 
 -------------------------------------------------Performance------------------------------------------------------------------
 • Sodium/Embeddium Dynamic Lights (IDK about these "Sodiums" but it does increase FPS)
