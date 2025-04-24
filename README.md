@@ -28,7 +28,7 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Armor of the Ages (armours) : **Optional**
 
------------------------------------Improve-Life-&-Entertaining------------------------------------------------------------------
+--------------------------------Improve-Life-&-Entertaining------------------------------------------------------------------
 
 • Villager Recruits: Diplomacy Update! : **Optional**
 
