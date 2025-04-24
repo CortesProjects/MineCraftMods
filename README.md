@@ -34,6 +34,8 @@ https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
 
 • Villager Respawn : **Optional**
 
+• Easy Villagers : **Optional**
+
 • Villager Worker : **Optional**
 
 • Mutated Items : **Optional**
